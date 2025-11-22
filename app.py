@@ -1,11 +1,3 @@
-
-Tool Call
-Function Name:
-Write
-Arguments:
-file_path:
-/home/user/svm_panel/app.py
-content:
 import os
 import json
 import time
